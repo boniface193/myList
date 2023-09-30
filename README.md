@@ -1,6 +1,24 @@
-# My_list
-The repository provides a look into the development of databases and making queries for matter clinic
-<a name="readme-top"></a>
+
+<!--
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+After you're finished please remove all the comments and instructions!
+-->
+
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -12,68 +30,134 @@ The repository provides a look into the development of databases and making quer
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
 
-# 📖 MyList <a name="My List"></a>
+# 📖 [MyList] <a name="about-project"></a>
 
+**[MyList]** In this project you will learn how to use a module inside your class. For this you will create a class MyList and a module MyEnumerable. Your module MyEnumerable will implement a subset of the functionality of Enumerable. .
 
-**[MyList ]** is a project that focuses on the learning ruby.
-
-## 🛠 Built With <a name="built-with"> Ruby</a>
+## 🛠 Built With <a name="built-with"></a>
+Linter
+github flows
+ruby
 
 ### Tech Stack <a name="tech-stack"></a>
 
+> 
 
 <details>
+ 
 <summary>Ruby</summary>
   <ul>
     <li>Ruby</li>
   </ul>
 </details>
 
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[Create a class MyList that has an instance variable]**
+- **[Create a class MyList that has an instance variable @list]**
 - **[Each class and module should has a separate .rb file.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- GETTING STARTED -->
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> You can get started by instaling ruby and visual studio or any editor
 
+To get a local copy up and running, follow these steps.
 
+### Prerequisites
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+In order to run this project you need:
 
+<!--
+Example command:
 
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Install this project with: git clone https://github.com/boniface193/myList.git
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
+Ikechukwu
 
-- GitHub: [@BezzB](https://github.com/githubhandle)
-- Twitter: [@Bezz](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@boniface193](https://github.com/boniface193)
+- Twitter: [@bidtechnologies](https://twitter.com/bidtechnologies)
+- LinkedIn: [boniface-ikechukwu](https://www.linkedin.com/in/boniface-ikechukwu/)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please give me a star
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank microverse
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
