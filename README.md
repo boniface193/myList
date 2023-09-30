@@ -126,7 +126,11 @@ Ikechukwu
 - Twitter: [@bidtechnologies](https://twitter.com/bidtechnologies)
 - LinkedIn: [boniface-ikechukwu](https://www.linkedin.com/in/boniface-ikechukwu/)
 
+👤 **Christopher Uduekwe**
 
+- GitHub: [@githubhandle](https://github.com/chudisoft)
+- Twitter: [@twitterhandle](https://twitter.com/chrisuduekwe)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/christopher-uduekwe)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
